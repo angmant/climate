@@ -18,18 +18,18 @@ Final export is at:<br>
 Final AssignmentClimateChange-AngelikiManta.pdf<br>
 Final AssignmentClimateChange-AngelikiManta.tex<br>
 The files that are used for this are:<br>
-1. GlobalTemperatures
-  1.1 GlobalTemperaturesSe.py
-  1.2 GlobalTemperatures.py
-  1.3 GlobalTemperaturesSe.npy
-2. CO2 PPM - Trends in Atmospheric Carbon Dioxide  
-  2.1 Co2mloFraction.py
-  2.2 Co2mloFractionSe.py
-  2.3 Co2mloFractionSe.npy
-3. Average cumulative mass balance of reference Glaciers worldwide
-  3.1 Glaciers
-  3.2 Glaciers.npy
- 4. Overlay plots: Overlay.py
- 5. plot to check colleration: Glaciers vs Global.py
+1. GlobalTemperatures<br>
+  1.1 GlobalTemperaturesSe.py<br>
+  1.2 GlobalTemperatures.py<br>
+  1.3 GlobalTemperaturesSe.npy<br>
+2. CO2 PPM - Trends in Atmospheric Carbon Dioxide  <br>
+  2.1 Co2mloFraction.py<br>
+  2.2 Co2mloFractionSe.py<br>
+  2.3 Co2mloFractionSe.npy<br>
+3. Average cumulative mass balance of reference Glaciers worldwide<br>
+  3.1 Glaciers<br>
+  3.2 Glaciers.npy<br>
+ 4. Overlay plots: Overlay.py<br>
+ 5. plot to check colleration: Glaciers vs Global.py<br>
  
   
